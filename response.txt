@@ -1,0 +1,5 @@
+For the installation of VS Code in your Sigma web development course, the content is covered in Video 1.
+
+The first mention of VS Code is at timestamp 175 seconds into the video, where it talks about how to double-click and install the setup. A bit later, at around 168 seconds, it mentions that VS Code has arrived.
+
+This topic seems to be introduced towards the beginning of the video, so you can expect the content on installing VS Code to set the foundation for what's to come in your course. If you're looking for more information or clarification on this topic, I recommend checking out Video 1.
