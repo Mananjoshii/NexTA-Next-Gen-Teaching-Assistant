@@ -1,5 +1,11 @@
-For the installation of VS Code in your Sigma web development course, the content is covered in Video 1.
+I'd be happy to help you with your web development course.
 
-The first mention of VS Code is at timestamp 175 seconds into the video, where it talks about how to double-click and install the setup. A bit later, at around 168 seconds, it mentions that VS Code has arrived.
+So, you're wondering when and where we first learn about creating our first HTML website?
 
-This topic seems to be introduced towards the beginning of the video, so you can expect the content on installing VS Code to set the foundation for what's to come in your course. If you're looking for more information or clarification on this topic, I recommend checking out Video 1.
+We actually cover this topic in Video 2 of our course. If you check the video title and number at the beginning of that video, it's called "Your First HTML Website" (Video #2).
+
+If I recall correctly, this is where we dive into creating our very own first web page using HTML, CSS, and a bit of JavaScript. We'll go through the process step-by-step, from setting up a basic project to designing and building our website.
+
+To find Video 2, simply click on the "Next" button or scroll down until you reach it in your video list. You can also check the timestamps at the beginning of each video to ensure you're watching the correct one.
+
+Let me know if you have any other questions or need further guidance!

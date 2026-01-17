@@ -1,0 +1,369 @@
+{
+    "chunks": [
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " Guys, we are going to start CSS from today's video.  We have progressed a lot in this course.  We have finished the whole HTML.  And many of you have shown a lot of enthusiasm.  Don't decline your interest in this video at all."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 13.280000000000001,
+            "end": 15.76,
+            "text": " Like this video and with high energy,  write Sigma Batch OP in the comment section below.  We have to maintain such high energy throughout the course.  CSS stands for Cascading Style Sheets.  And with the help of Cascading Style Sheets,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 26.44,
+            "end": 29.44,
+            "text": " we supplement HTML with some styles.  HTML was never intended to create styled pages.  HTML's work was to create a basic website structure.  And CSS takes the responsibility of styling the page.  CSS has selectors that help in selecting any element."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 45.760000000000005,
+            "end": 48.52,
+            "text": " I will tell you in this video what a selector is,  how CSS is written.  And in the coming videos, we are going to raise the bar like anything.  We will make real-world websites.  And such websites like Amazon, Flipkart, Netflix, YouTube,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 59.64,
+            "end": 62.76,
+            "text": " you will be capable of making all these websites.  So, I am very excited.  Let's go to the computer screen.  Let's roll the intro.  So, I have come to my computer screen."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 77.56,
+            "end": 79.56,
+            "text": " And as always, I will make a folder here too.  And I will make a folder in the name of video 14.  I am having a lot of fun in this course.  Because honestly speaking, I have never made a course of this level.  Now, here I will tell you about CSS first."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 90.88000000000001,
+            "end": 93.88000000000001,
+            "text": " Why will you use CSS?  HTML was never made to style web pages.  HTML was always made to create a skeleton.  There were many tags in HTML that were deprecated.  Like font tag."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 104.88000000000001,
+            "end": 108.88000000000001,
+            "text": " Because HTML was responsible for creating a skeletal website.  That's about it.  After that, the work was to handle all CSS.  Now, in this video, we will make real-world websites.  And if you have not accessed the playlist, do that too."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " The source code is coming here.  If you go to codewithhari.com,  then you can download HTML notes there.  You will get to see additional things.  So, as soon as you click on PDF notes,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 130.0,
+            "end": 133.0,
+            "text": " you will get HTML PDF notes.  These are handwritten notes written by me in my handwriting.  I have put a lot of effort in writing.  So, everyone must download it.  And I will put a link in the description."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 142.12,
+            "end": 143.12,
+            "text": " I told you something here.  If HTML is the body of a car,  that is, the body of the car,  then CSS is the car's paint, decoration, designs,  seeds, interior, all these things."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 154.12,
+            "end": 155.12,
+            "text": " And what is JavaScript?  Engine and internal logic.  Anyway, we will talk about engine and internal logic later.  We have completed HTML, now we are talking about CSS.  Now I will tell you some more examples."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 167.12,
+            "end": 168.12,
+            "text": " Like your human body.  The human body has a skeleton.  You can consider the skeleton as HTML.  Skin, hair, all this is CSS.  And our brain, our nerves, our neurons,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 179.24,
+            "end": 182.24,
+            "text": " all that constitutes our JavaScript.  So, I hope this thing is clear to you.  So, in total, HTML was never intended to style websites.  This responsibility was taken by CSS.  CSS said, HTML, you are done."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 192.24,
+            "end": 196.24,
+            "text": " Now I have come and I will help you in styling.  So, CSS took the responsibility of styling pages.  So, you must download this HTML notes.  Anyway, spoiler alert, CSS notes are also very good.  But listen to me first, download it after that."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 207.36,
+            "end": 209.36,
+            "text": " I have given a spoiler.  But don't download it now.  I have also taken a lot of time and effort.  So, you are going to get a lot of things.  And it's fun, I have never made a course of this level."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 218.36,
+            "end": 220.36,
+            "text": " In total, this is the thing.  So, if I click on shift right and open with code,  then this video14 folder is opened in my VS code.  Now, if I make a file index.html  and by hitting exclamation mark,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 232.48000000000002,
+            "end": 234.48000000000002,
+            "text": " I make a boilerplate like this.  Like we were doing in our HTML course.  Similarly, if we do, just like HTML videos.  And here I will write CSS in the title.  And in the body, I will write a div."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 244.48000000000002,
+            "end": 245.48000000000002,
+            "text": " And I will write in it,  Hey, I am Harry and today I am in CSS mood.  Okay, let's say I wrote this and I will do a preview here.  So, as soon as I click on the preview,  you can see here,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 255.6,
+            "end": 257.59999999999997,
+            "text": " Hey, I am Harry and today I am in CSS mood.  So, what is CSS?  You can add CSS using style tag.  There are two more ways,  which I will tell you in the coming videos."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 266.59999999999997,
+            "end": 268.59999999999997,
+            "text": " I will tell you a lot of things.  Now, if I say here,  that the div,  the div,  color it red."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 275.59999999999997,
+            "end": 276.59999999999997,
+            "text": " Suppose I say this,  I said, what?  Color the div red.  So, in this div,  what is this div?"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 282.59999999999997,
+            "end": 283.59999999999997,
+            "text": " This is a selector  and this is our declaration.  So, selector and declaration.  What is a selector?  It is a div."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 288.72,
+            "end": 290.72,
+            "text": " That is, the color of all the divs of this page,  which is our key,  this is our value,  this is our property,  this is the value of that property."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 295.72,
+            "end": 296.72,
+            "text": " Make the color red.  Okay, so this is our declaration  and this is our selector.  I hope you understood this.  So, now if I show you the page,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 304.72,
+            "end": 305.72,
+            "text": " see what color it is.  Red.  Because I said,  whatever div is on this page,  make its color red."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 309.72,
+            "end": 311.72,
+            "text": " Okay, so if I make another div here,  and if I write in it,  I am good,  then the color of I am good will also be red,  as you can see."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 317.84000000000003,
+            "end": 319.84000000000003,
+            "text": " And if I put another declaration  in it,  and I write here,  background yellow,  then here,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 323.84000000000003,
+            "end": 325.84000000000003,
+            "text": " its background also becomes yellow,  its background also becomes yellow.  Whoever matches this selector,  the background of that element  will become yellow."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 331.84000000000003,
+            "end": 332.84000000000003,
+            "text": " Like you see here,  I said div,  and here was this div,  and this was a div.  If I make a span here,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 338.84000000000003,
+            "end": 339.84000000000003,
+            "text": " and I write here,  I am also good.  Okay, so what will happen?  Will this also be red?  No, its color will not be red,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 345.96,
+            "end": 347.96,
+            "text": " because this selector  and these declarations  are not applicable on these elements.  Okay,  any element which is not a div."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 354.96,
+            "end": 356.96,
+            "text": " If I put a paragraph here,  and put lorem 435 here,  oops,  I think 435 is too much,  43 is enough."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 363.96,
+            "end": 365.96,
+            "text": " Okay, so here I have put a very big lorem,  which will make our page very big.  In this,  this declaration was not applied.  It was not applied in this also."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 373.08,
+            "end": 375.08,
+            "text": " I just said div,  that's why all these conditions  are applied in div.  Now I can put a comma here  and select multiple elements."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 382.08,
+            "end": 383.08,
+            "text": " I can say,  do this in both div and span.  So in both div and span,  the color will be red,  and here the background color"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 387.08,
+            "end": 388.08,
+            "text": " will become yellow.  What is div and span?  These are my selectors.  So I have applied these declarations  in multiple selectors."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 394.08,
+            "end": 395.08,
+            "text": " This is property,  background color is a property,  whose value is yellow.  Color is a property,  whose value is red."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 400.2,
+            "end": 401.2,
+            "text": " Okay,  so here you can see,  wherever there will be div,  wherever there will be span,  this thing will be applied there."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 408.2,
+            "end": 411.2,
+            "text": " And that's pretty much how CSS works.  That's it.  Now what will we learn in the coming videos?  That this happens with this property,  and this happens with this selector."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 418.2,
+            "end": 421.2,
+            "text": " I will be telling you about different types of selectors.  That's it,  that's about it.  It's as simple as that.  And by using these selectors,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 426.2,
+            "end": 428.2,
+            "text": " we can create websites like Amazon,  we can create websites like Walmart,  we can create websites like Facebook,  and we can create websites like Instagram.  And nowadays,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 435.32,
+            "end": 437.32,
+            "text": " there are such technologies in the market,  with which you can do this type of coding,  and can also create mobile apps.  We will explore all those things.  This course is going to be of a very extensive level."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 447.32,
+            "end": 448.32,
+            "text": " You will enjoy it too.  We will be touching so many things.  I gave you an exercise  in video number 12.  So if you have not posted your answer,"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 456.44,
+            "end": 458.44,
+            "text": " then post your answer as soon as possible.  Because I am going to give a shout out,  whoever will post their answer in the comment section.  So make sure you go to video 12,  and solve the exercise of pure HTML player."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 466.44,
+            "end": 469.44,
+            "text": " Because it will be fun if there is two-way interaction.  There will be talks from both sides.  I will give you a shout out from here.  You will enjoy it when you solve it.  So do solve it."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 476.44,
+            "end": 478.44,
+            "text": " Now I want to tell you about Replit.  Many people say that we have a phone,  we don't have a laptop.  Many people have problems.  So Replit is an amazing platform"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 484.56,
+            "end": 486.56,
+            "text": " which you can try out.  You just have to sign up here  and you will be able to write HTML,  CSS and JavaScript here.  And it works very well."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 494.56,
+            "end": 496.56,
+            "text": " I have used it for my production-grade projects.  And I have also made many videos  on this channel and shown you on Replit.  So we did 100 days of code on Replit.  So you can use this"
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 504.56,
+            "end": 506.56,
+            "text": " if you don't have a laptop.  You do coding on the phone.  You will have a very good experience.  So you guys write in the comment section  that you are not getting it."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 514.68,
+            "end": 516.68,
+            "text": " Because I want your comments  in the comment section  that you are enjoying it.  Do access this playlist.  Also access the source code."
+        },
+        {
+            "number": "14",
+            "title": "Introduction to CSS",
+            "start": 524.68,
+            "end": 526.68,
+            "text": " I have updated the source code of all the videos.  And write the names of your village and town.  That's it for now.  Thank you so much for watching this video.  And I will see you next time."
+        }
+    ],
+    "text": " Guys, we are going to start CSS from today's video. We have progressed a lot in this course. We have finished the whole HTML. And many of you have shown a lot of enthusiasm. Don't decline your interest in this video at all. Like this video and with high energy, write Sigma Batch OP in the comment section below. We have to maintain such high energy throughout the course. CSS stands for Cascading Style Sheets. And with the help of Cascading Style Sheets, we supplement HTML with some styles. HTML was never intended to create styled pages. HTML's work was to create a basic website structure. And CSS takes the responsibility of styling the page. CSS has selectors that help in selecting any element. I will tell you in this video what a selector is, how CSS is written. And in the coming videos, we are going to raise the bar like anything. We will make real-world websites. And such websites like Amazon, Flipkart, Netflix, YouTube, you will be capable of making all these websites. So, I am very excited. Let's go to the computer screen. Let's roll the intro. So, I have come to my computer screen. And as always, I will make a folder here too. And I will make a folder in the name of video 14. I am having a lot of fun in this course. Because honestly speaking, I have never made a course of this level. Now, here I will tell you about CSS first. Why will you use CSS? HTML was never made to style web pages. HTML was always made to create a skeleton. There were many tags in HTML that were deprecated. Like font tag. Because HTML was responsible for creating a skeletal website. That's about it. After that, the work was to handle all CSS. Now, in this video, we will make real-world websites. And if you have not accessed the playlist, do that too. The source code is coming here. If you go to codewithhari.com, then you can download HTML notes there. You will get to see additional things. So, as soon as you click on PDF notes, you will get HTML PDF notes. These are handwritten notes written by me in my handwriting. I have put a lot of effort in writing. So, everyone must download it. And I will put a link in the description. I told you something here. If HTML is the body of a car, that is, the body of the car, then CSS is the car's paint, decoration, designs, seeds, interior, all these things. And what is JavaScript? Engine and internal logic. Anyway, we will talk about engine and internal logic later. We have completed HTML, now we are talking about CSS. Now I will tell you some more examples. Like your human body. The human body has a skeleton. You can consider the skeleton as HTML. Skin, hair, all this is CSS. And our brain, our nerves, our neurons, all that constitutes our JavaScript. So, I hope this thing is clear to you. So, in total, HTML was never intended to style websites. This responsibility was taken by CSS. CSS said, HTML, you are done. Now I have come and I will help you in styling. So, CSS took the responsibility of styling pages. So, you must download this HTML notes. Anyway, spoiler alert, CSS notes are also very good. But listen to me first, download it after that. I have given a spoiler. But don't download it now. I have also taken a lot of time and effort. So, you are going to get a lot of things. And it's fun, I have never made a course of this level. In total, this is the thing. So, if I click on shift right and open with code, then this video14 folder is opened in my VS code. Now, if I make a file index.html and by hitting exclamation mark, I make a boilerplate like this. Like we were doing in our HTML course. Similarly, if we do, just like HTML videos. And here I will write CSS in the title. And in the body, I will write a div. And I will write in it, Hey, I am Harry and today I am in CSS mood. Okay, let's say I wrote this and I will do a preview here. So, as soon as I click on the preview, you can see here, Hey, I am Harry and today I am in CSS mood. So, what is CSS? You can add CSS using style tag. There are two more ways, which I will tell you in the coming videos. I will tell you a lot of things. Now, if I say here, that the div, the div, color it red. Suppose I say this, I said, what? Color the div red. So, in this div, what is this div? This is a selector and this is our declaration. So, selector and declaration. What is a selector? It is a div. That is, the color of all the divs of this page, which is our key, this is our value, this is our property, this is the value of that property. Make the color red. Okay, so this is our declaration and this is our selector. I hope you understood this. So, now if I show you the page, see what color it is. Red. Because I said, whatever div is on this page, make its color red. Okay, so if I make another div here, and if I write in it, I am good, then the color of I am good will also be red, as you can see. And if I put another declaration in it, and I write here, background yellow, then here, its background also becomes yellow, its background also becomes yellow. Whoever matches this selector, the background of that element will become yellow. Like you see here, I said div, and here was this div, and this was a div. If I make a span here, and I write here, I am also good. Okay, so what will happen? Will this also be red? No, its color will not be red, because this selector and these declarations are not applicable on these elements. Okay, any element which is not a div. If I put a paragraph here, and put lorem 435 here, oops, I think 435 is too much, 43 is enough. Okay, so here I have put a very big lorem, which will make our page very big. In this, this declaration was not applied. It was not applied in this also. I just said div, that's why all these conditions are applied in div. Now I can put a comma here and select multiple elements. I can say, do this in both div and span. So in both div and span, the color will be red, and here the background color will become yellow. What is div and span? These are my selectors. So I have applied these declarations in multiple selectors. This is property, background color is a property, whose value is yellow. Color is a property, whose value is red. Okay, so here you can see, wherever there will be div, wherever there will be span, this thing will be applied there. And that's pretty much how CSS works. That's it. Now what will we learn in the coming videos? That this happens with this property, and this happens with this selector. I will be telling you about different types of selectors. That's it, that's about it. It's as simple as that. And by using these selectors, we can create websites like Amazon, we can create websites like Walmart, we can create websites like Facebook, and we can create websites like Instagram. And nowadays, there are such technologies in the market, with which you can do this type of coding, and can also create mobile apps. We will explore all those things. This course is going to be of a very extensive level. You will enjoy it too. We will be touching so many things. I gave you an exercise in video number 12. So if you have not posted your answer, then post your answer as soon as possible. Because I am going to give a shout out, whoever will post their answer in the comment section. So make sure you go to video 12, and solve the exercise of pure HTML player. Because it will be fun if there is two-way interaction. There will be talks from both sides. I will give you a shout out from here. You will enjoy it when you solve it. So do solve it. Now I want to tell you about Replit. Many people say that we have a phone, we don't have a laptop. Many people have problems. So Replit is an amazing platform which you can try out. You just have to sign up here and you will be able to write HTML, CSS and JavaScript here. And it works very well. I have used it for my production-grade projects. And I have also made many videos on this channel and shown you on Replit. So we did 100 days of code on Replit. So you can use this if you don't have a laptop. You do coding on the phone. You will have a very good experience. So you guys write in the comment section that you are not getting it. Because I want your comments in the comment section that you are enjoying it. Do access this playlist. Also access the source code. I have updated the source code of all the videos. And write the names of your village and town. That's it for now. Thank you so much for watching this video. And I will see you next time."
+}
